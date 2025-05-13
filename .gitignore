@@ -3,4 +3,4 @@
 
 # Ignore any .env files, in any folders in the project.
 **/.env*
-
+.DS_Store
